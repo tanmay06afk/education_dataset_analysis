@@ -1,0 +1,601 @@
+school_id,school_name,district,block,total_enrolled_students,school_type,medium
+SCH0050,Govt. Senior Secondary School Tank,Moga,Moga-I,424,Secondary,Punjabi
+SCH0583,Govt. Middle School Dara,Ferozepur,Makhu,436,Higher Secondary,Punjabi
+SCH0083,Govt. Primary School Dutta,Bathinda,Talwandi Sabo,196,Primary,Hindi
+SCH0306,Govt. Elementary School Bhardwaj,Patiala,,375,Primary,Hindi
+SCH0110,Govt. Primary School Goswami,Moga,Bagha Purana,398,Higher Secondary,Punjabi
+SCH0011,Govt. Senior Secondary School Munshi,Patiala,Samana,422,Higher Secondary,Punjabi
+SCH0269,Govt. Middle School Narayanan,Amritsar,Amritsar-Ii,332,Higher Secondary,Punjabi
+SCH0354,Govt. Senior Secondary School Kakar,Moga,Moga-Ii,402,Secondary,English
+SCH0329,Govt. Elementary School Modi,Sangrur,,415,Upper Primary,Hindi
+SCH0534,Govt. Elementary School Pau,Ferozepur,Makhu,410,Primary,Hindi
+SCH0282,Govt. Primary School Palan,Sangrur,,203,Primary,English
+SCH0488,Govt. Primary School Nayak,Bathinda,Maur,57,Upper Primary,Punjabi
+SCH0235,Govt. Senior Secondary School Balan,Amritsar,Amritsar-Ii,315,Upper Primary,Punjabi
+SCH0132,Govt. Primary School Rajagopal,Amritsar,Tarn Taran,89,Secondary,Hindi
+SCH0003,Govt. Senior Secondary School Chopra,Ferozepur,Zira,269,Primary,English
+SCH0228,Govt. Elementary School Sankar,Sangrur,Sunam,272,Secondary,Hindi
+SCH0577,Govt. Elementary School Magar,Ludhiana,Doraha,80,Higher Secondary,English
+SCH0427,Govt. Elementary School Mangat,Jalandhar,Phillaur,42,Primary,Punjabi
+SCH0185,Govt. Elementary School Tata,Sangrur,Sunam,102,Primary,English
+SCH0399,Govt. Middle School Konda,Patiala,Samana,199,Higher Secondary,Punjabi
+SCH0375,Govt. Primary School Karan,Ferozepur,Ferozepur,242,Secondary,English
+SCH0079,Govt. Primary School Dash,Bathinda,Maur,366,Higher Secondary,Punjabi
+SCH0248,Govt. Elementary School Grover,Ferozepur,Mamdot,313,Secondary,Punjabi
+SCH0056,Govt. Primary School Nagar,Sangrur,Sangrur,405,Secondary,Hindi
+SCH0221,Govt. Middle School Butala,Bathinda,Bathinda,44,Primary,Hindi
+SCH0524,Govt. Primary School Sabharwal,Ludhiana,Ludhiana-Ii,92,Upper Primary,Hindi
+SCH0249,Govt. Senior Secondary School Toor,Moga,Moga-Ii,229,Primary,Punjabi
+SCH0383,Govt. Senior Secondary School Sama,Ludhiana,Ludhiana-Ii,332,Upper Primary,English
+SCH0500,Govt. Elementary School Kala,Bathinda,Talwandi Sabo,153,Upper Primary,Hindi
+SCH0553,Govt. Elementary School Brar,Ludhiana,Machhiwara,80,Secondary,Punjabi
+SCH0040,Govt. Primary School Gole,Jalandhar,Nakodar,440,Upper Primary,Punjabi
+SCH0146,Govt. Primary School Sundaram,Bathinda,Rampura Phul,153,Upper Primary,Hindi
+SCH0378,Govt. Middle School Mitter,Amritsar,Amritsar-Ii,266,Higher Secondary,Hindi
+SCH0078,Govt. Senior Secondary School Bhavsar,Bathinda,Maur,224,Primary,Punjabi
+SCH0119,Govt. Middle School Sur,Ferozepur,,252,Higher Secondary,English
+SCH0401,Govt. Senior Secondary School Sunder,Moga,Moga-Ii,124,Higher Secondary,Hindi
+SCH0149,Govt. Middle School Uppal,Moga,Bagha Purana,117,Higher Secondary,Hindi
+SCH0332,Govt. Senior Secondary School Lad,Ferozepur,Makhu,274,Primary,Punjabi
+SCH0133,Govt. Primary School Thakur,Moga,Moga-I,250,Higher Secondary,Hindi
+SCH0216,Govt. Senior Secondary School Oommen,Patiala,Nabha,315,Secondary,Hindi
+SCH0585,Govt. Primary School Bala,Sangrur,Sangrur,131,Upper Primary,Hindi
+SCH0438,Govt. Senior Secondary School Chacko,Bathinda,Talwandi Sabo,130,Primary,Punjabi
+SCH0087,Govt. Elementary School Grewal,Ludhiana,Ludhiana-Ii,445,Secondary,Punjabi
+SCH0322,Govt. Primary School Tak,Moga,Nihal Singh Wala,179,Secondary,Hindi
+SCH0337,Govt. Elementary School Bora,Ludhiana,Ludhiana-Ii,207,Upper Primary,English
+SCH0077,Govt. Middle School Buch,Amritsar,Amritsar-Ii,138,Higher Secondary,Hindi
+SCH0236,Govt. Senior Secondary School Palan,Bathinda,Talwandi Sabo,384,Higher Secondary,English
+SCH0486,Govt. Primary School Johal,Ferozepur,Ferozepur,72,Secondary,Punjabi
+SCH0278,Govt. Primary School Kamdar,Amritsar,Amritsar-I,433,Secondary,Punjabi
+SCH0209,Govt. Elementary School Mane,Ferozepur,Zira,388,Primary,Hindi
+SCH0466,Govt. Middle School Chand,Ferozepur,Mamdot,272,Primary,Hindi
+SCH0394,Govt. Senior Secondary School Bala,Bathinda,Talwandi Sabo,67,Upper Primary,Hindi
+SCH0347,Govt. Primary School Mall,Ludhiana,Machhiwara,311,Upper Primary,Hindi
+SCH0566,Govt. Primary School Ramachandran,Amritsar,Tarn Taran,378,Secondary,Punjabi
+SCH0031,Govt. Primary School Mohanty,Sangrur,,424,Primary,Hindi
+SCH0574,Govt. Primary School Deep,Jalandhar,Phillaur,434,Upper Primary,Hindi
+SCH0205,Govt. Elementary School Chander,,Ferozepur,63,Secondary,Hindi
+SCH0312,Govt. Primary School Sagar,Patiala,Samana,370,Secondary,English
+SCH0512,Govt. Elementary School Chana,Ferozepur,Makhu,267,Secondary,Hindi
+SCH0141,Govt. Middle School Sane,Sangrur,Malerkotla,63,Primary,Hindi
+SCH0474,Govt. Senior Secondary School Borra,Sangrur,Dhuri,286,Higher Secondary,Hindi
+SCH0578,Govt. Primary School Narasimhan,Jalandhar,Phillaur,291,Upper Primary,Punjabi
+SCH0057,Govt. Elementary School Wagle,Ferozepur,Zira,401,Higher Secondary,Hindi
+SCH0589,Govt. Elementary School Sarraf,Patiala,Patiala,358,Primary,Punjabi
+SCH0506,Govt. Primary School Parekh,Jalandhar,Nakodar,442,Secondary,Hindi
+SCH0229,Govt. Primary School Balay,Patiala,,309,Secondary,Hindi
+SCH0210,Govt. Primary School Barman,Ferozepur,Zira,250,Higher Secondary,Hindi
+SCH0025,Govt. Elementary School Tella,Ludhiana,Ludhiana-I,425,Upper Primary,Punjabi
+SCH0479,Govt. Primary School Tank,Moga,Moga-I,257,Higher Secondary,Hindi
+SCH0369,Govt. Senior Secondary School Naik,Patiala,Rajpura,193,Primary,Punjabi
+SCH0362,Govt. Elementary School Sinha,Ferozepur,Zira,67,Upper Primary,Hindi
+SCH0364,Govt. Primary School Chowdhury,Ludhiana,Machhiwara,84,Higher Secondary,English
+SCH0469,Govt. Middle School Gera,Ludhiana,Ludhiana-Ii,265,Primary,Hindi
+SCH0071,Govt. Elementary School Comar,Bathinda,Rampura Phul,165,Primary,Punjabi
+SCH0353,Govt. Elementary School Parikh,Ferozepur,Ferozepur,212,Upper Primary,Punjabi
+SCH0177,Govt. Middle School Manne,Moga,Moga-Ii,294,Secondary,Punjabi
+SCH0370,Govt. Primary School Pant,Jalandhar,Jalandhar-Ii,148,Upper Primary,Punjabi
+SCH0061,Govt. Elementary School Dhawan,Ludhiana,Machhiwara,343,Primary,Punjabi
+SCH0600,Govt. Primary School Sandhu,Amritsar,Ajnala,193,Secondary,English
+SCH0102,Govt. Middle School Kakar,Ludhiana,Ludhiana-Ii,249,Upper Primary,Punjabi
+SCH0204,Govt. Middle School Singhal,Amritsar,Amritsar-Ii,89,Secondary,Hindi
+SCH0091,Govt. Middle School Soman,Moga,Nihal Singh Wala,210,Primary,Punjabi
+SCH0540,Govt. Elementary School Dugal,Patiala,Patiala,288,Primary,Hindi
+SCH0471,Govt. Elementary School Chad,Sangrur,,285,Upper Primary,Punjabi
+SCH0568,Govt. Primary School Zachariah,Amritsar,,141,Higher Secondary,Hindi
+SCH0030,Govt. Elementary School Kar,Moga,Bagha Purana,144,Secondary,English
+SCH0111,Govt. Middle School Butala,Bathinda,Maur,350,Upper Primary,Hindi
+SCH0510,Govt. Middle School Kant,Bathinda,Talwandi Sabo,363,Upper Primary,Hindi
+SCH0213,Govt. Elementary School Bhatt,Bathinda,Maur,192,Upper Primary,English
+SCH0545,Govt. Elementary School Prabhakar,Ferozepur,Ferozepur,432,Secondary,Hindi
+SCH0323,Govt. Middle School Kapoor,Moga,Moga-I,295,Upper Primary,Hindi
+SCH0290,Govt. Primary School Mander,Jalandhar,Phillaur,187,Secondary,Punjabi
+SCH0530,Govt. Middle School Kata,Patiala,Patiala,160,Secondary,Punjabi
+SCH0463,Govt. Primary School Rajagopalan,Bathinda,Maur,277,Primary,Hindi
+SCH0453,Govt. Primary School Mahal,,Ludhiana-Ii,103,Higher Secondary,English
+SCH0156,Govt. Elementary School Barad,Ferozepur,Zira,344,Primary,English
+SCH0082,Govt. Elementary School Mistry,Amritsar,Tarn Taran,350,Upper Primary,Punjabi
+SCH0251,Govt. Middle School Choudhry,Bathinda,Talwandi Sabo,410,Higher Secondary,Hindi
+SCH0595,Govt. Primary School Char,Amritsar,Ajnala,208,Upper Primary,Hindi
+SCH0239,Govt. Middle School Butala,Ferozepur,Mamdot,159,Primary,Hindi
+SCH0406,Govt. Senior Secondary School Bhattacharyya,Sangrur,Sunam,351,Secondary,Punjabi
+SCH0064,Govt. Senior Secondary School Nayar,Patiala,Patiala,439,Primary,Punjabi
+SCH0272,Govt. Senior Secondary School Sarin,Ferozepur,Makhu,265,Upper Primary,Hindi
+SCH0073,Govt. Senior Secondary School Shah,Moga,,345,Secondary,Punjabi
+SCH0257,Govt. Senior Secondary School Rai,Ferozepur,Ferozepur,231,Higher Secondary,Punjabi
+SCH0555,Govt. Elementary School Mukhopadhyay,Jalandhar,Nakodar,297,Upper Primary,Hindi
+SCH0336,Govt. Middle School Sridhar,Sangrur,Malerkotla,277,Primary,Hindi
+SCH0579,Govt. Primary School Puri,Bathinda,Talwandi Sabo,153,Upper Primary,Punjabi
+SCH0400,Govt. Senior Secondary School Sastry,Bathinda,Rampura Phul,273,Secondary,Punjabi
+SCH0261,Govt. Middle School Sen,Ludhiana,Ludhiana-Ii,340,Higher Secondary,Hindi
+SCH0136,Govt. Middle School Banerjee,Ludhiana,,179,Secondary,Hindi
+SCH0341,Govt. Elementary School Virk,Moga,Moga-I,61,Primary,Punjabi
+SCH0212,Govt. Senior Secondary School Sachar,Moga,Bagha Purana,386,Secondary,English
+SCH0542,Govt. Primary School Balasubramanian,Sangrur,Sangrur,224,Higher Secondary,English
+SCH0300,Govt. Middle School Chaudhary,Bathinda,Talwandi Sabo,232,Primary,English
+SCH0481,Govt. Middle School Bhatti,Patiala,Samana,249,Upper Primary,Hindi
+SCH0007,Govt. Middle School Kale,Ferozepur,Makhu,272,Secondary,English
+SCH0105,Govt. Primary School Desai,Amritsar,Tarn Taran,125,Primary,English
+SCH0115,Govt. Primary School Sachdev,Ferozepur,Makhu,86,Primary,English
+SCH0159,Govt. Senior Secondary School Gade,Ludhiana,Doraha,432,Higher Secondary,Hindi
+SCH0182,Govt. Middle School Hari,,Nihal Singh Wala,330,Upper Primary,Punjabi
+SCH0532,Govt. Primary School Sahni,Patiala,,295,Secondary,Hindi
+SCH0365,Govt. Middle School Bhavsar,Amritsar,,99,Higher Secondary,Hindi
+SCH0178,Govt. Middle School Dyal,Amritsar,Tarn Taran,348,Upper Primary,English
+SCH0594,Govt. Primary School Murthy,Bathinda,Rampura Phul,228,Primary,Hindi
+SCH0200,Govt. Senior Secondary School Anne,Sangrur,Sangrur,86,Higher Secondary,Punjabi
+SCH0422,Govt. Primary School Rajan,Bathinda,Maur,375,Secondary,Punjabi
+SCH0301,Govt. Elementary School Loke,Sangrur,Dhuri,207,Primary,English
+SCH0409,Govt. Primary School Puri,Amritsar,,369,Secondary,Hindi
+SCH0397,Govt. Elementary School Raghavan,Sangrur,Sangrur,106,Higher Secondary,Punjabi
+SCH0287,Govt. Senior Secondary School Bhavsar,Ferozepur,Mamdot,340,Secondary,English
+SCH0258,Govt. Primary School Kalita,Ludhiana,Ludhiana-I,247,Higher Secondary,Punjabi
+SCH0260,Govt. Primary School Deol,Sangrur,Malerkotla,63,Secondary,English
+SCH0043,Govt. Middle School Sachar,Moga,,99,Secondary,Hindi
+SCH0074,Govt. Primary School Parmer,Sangrur,,393,Higher Secondary,Hindi
+SCH0538,Govt. Middle School Wali,Ferozepur,Zira,308,Upper Primary,English
+SCH0067,Govt. Senior Secondary School Dewan,Ludhiana,,334,Higher Secondary,Hindi
+SCH0012,Govt. Elementary School Mand,Ludhiana,Ludhiana-I,118,Higher Secondary,Punjabi
+SCH0164,Govt. Senior Secondary School Barad,Amritsar,Ajnala,82,Secondary,Punjabi
+SCH0444,Govt. Middle School Setty,Ferozepur,Ferozepur,237,Secondary,Hindi
+SCH0211,Govt. Senior Secondary School Edwin,Patiala,Samana,379,Higher Secondary,Hindi
+SCH0333,Govt. Middle School Warrior,Amritsar,Amritsar-I,262,Upper Primary,Punjabi
+SCH0084,Govt. Primary School Wali,Patiala,Samana,378,Upper Primary,Punjabi
+SCH0279,Govt. Senior Secondary School Narayan,,Nihal Singh Wala,94,Secondary,Punjabi
+SCH0449,Govt. Primary School Keer,Ferozepur,Mamdot,362,Secondary,Hindi
+SCH0080,Govt. Elementary School Roy,Sangrur,Dhuri,214,Primary,Punjabi
+SCH0024,Govt. Primary School Bhandari,Ferozepur,,182,Primary,Hindi
+SCH0288,Govt. Middle School Goyal,Amritsar,Amritsar-Ii,200,Secondary,Hindi
+SCH0302,Govt. Middle School Sama,Amritsar,Tarn Taran,151,Upper Primary,English
+SCH0281,Govt. Elementary School Agarwal,Amritsar,Amritsar-Ii,218,Higher Secondary,Punjabi
+SCH0245,Govt. Senior Secondary School Sarkar,Ludhiana,Doraha,233,Primary,Hindi
+SCH0291,Govt. Elementary School Seth,Sangrur,Sunam,139,Higher Secondary,Punjabi
+SCH0330,Govt. Middle School Badami,,Moga-I,211,Higher Secondary,Hindi
+SCH0138,Govt. Primary School Gandhi,Moga,Moga-Ii,229,Secondary,Hindi
+SCH0189,Govt. Elementary School Mitter,Ferozepur,Mamdot,334,Secondary,Hindi
+SCH0166,Govt. Middle School Devi,Moga,Moga-Ii,54,Primary,Hindi
+SCH0297,Govt. Middle School Narayanan,Ludhiana,Doraha,312,Upper Primary,English
+SCH0010,Govt. Elementary School Mani,Patiala,Samana,148,Higher Secondary,Hindi
+SCH0197,Govt. Elementary School Dada,Moga,Nihal Singh Wala,106,Primary,Punjabi
+SCH0232,Govt. Primary School Choudhary,Ludhiana,Machhiwara,170,Upper Primary,Punjabi
+SCH0320,Govt. Middle School Dave,Amritsar,Amritsar-I,402,Primary,English
+SCH0266,Govt. Middle School Hora,Jalandhar,Phillaur,202,Primary,English
+SCH0085,Govt. Elementary School Bandi,,,189,Secondary,Hindi
+SCH0175,Govt. Senior Secondary School Naik,Ludhiana,Doraha,198,Higher Secondary,Punjabi
+SCH0548,Govt. Elementary School Yohannan,Patiala,Rajpura,432,Secondary,Punjabi
+SCH0219,Govt. Senior Secondary School Oommen,Moga,Bagha Purana,370,Primary,Punjabi
+SCH0317,Govt. Middle School Purohit,Ferozepur,,399,Upper Primary,Hindi
+SCH0491,Govt. Primary School Raman,,Dhuri,334,Upper Primary,Hindi
+SCH0391,Govt. Senior Secondary School Lad,Jalandhar,Nakodar,89,Secondary,English
+SCH0214,Govt. Elementary School Chahal,Bathinda,Rampura Phul,102,Higher Secondary,Hindi
+SCH0154,Govt. Middle School Chakraborty,Ferozepur,,436,Primary,Punjabi
+SCH0076,Govt. Primary School Oommen,Moga,Bagha Purana,399,Secondary,English
+SCH0093,Govt. Elementary School Bora,Ludhiana,Machhiwara,251,Secondary,Punjabi
+SCH0431,Govt. Middle School Sarin,Bathinda,Rampura Phul,384,Upper Primary,English
+SCH0069,Govt. Elementary School Mital,Moga,Moga-I,299,Primary,English
+SCH0016,Govt. Senior Secondary School Varughese,Ludhiana,Ludhiana-I,225,Secondary,Punjabi
+SCH0193,Govt. Primary School Parmer,Jalandhar,Jalandhar-Ii,127,Secondary,Punjabi
+SCH0376,Govt. Elementary School Talwar,Moga,Moga-I,212,Secondary,Punjabi
+SCH0089,Govt. Middle School Krishnamurthy,Amritsar,Amritsar-Ii,385,Primary,Hindi
+SCH0519,Govt. Elementary School Palan,,Maur,195,Upper Primary,Punjabi
+SCH0118,Govt. Middle School Hari,Sangrur,Sangrur,89,Upper Primary,Hindi
+SCH0410,Govt. Primary School Bath,Ludhiana,,224,Secondary,Punjabi
+SCH0435,Govt. Middle School Rama,Amritsar,Amritsar-Ii,420,Higher Secondary,Punjabi
+SCH0034,Govt. Senior Secondary School Kumar,Bathinda,Bathinda,94,Upper Primary,Hindi
+SCH0001,Govt. Primary School Nadkarni,Amritsar,Amritsar-I,419,Upper Primary,Hindi
+SCH0554,Govt. Primary School Din,Patiala,Patiala,364,Higher Secondary,Hindi
+SCH0356,Govt. Middle School Brahmbhatt,Patiala,Patiala,294,Primary,Punjabi
+SCH0454,Govt. Senior Secondary School Bala,Patiala,Rajpura,370,Upper Primary,English
+SCH0552,Govt. Primary School Bhavsar,Patiala,Patiala,410,Higher Secondary,English
+SCH0023,Govt. Senior Secondary School Bumb,Ludhiana,Machhiwara,412,Primary,Hindi
+SCH0473,Govt. Middle School Nori,Jalandhar,Phillaur,346,Primary,Hindi
+SCH0117,Govt. Primary School Reddy,Amritsar,Tarn Taran,398,Higher Secondary,English
+SCH0090,Govt. Elementary School Pingle,Sangrur,Dhuri,182,Higher Secondary,Punjabi
+SCH0183,Govt. Primary School Narain,Jalandhar,,243,Secondary,Hindi
+SCH0496,Govt. Middle School Hayre,Amritsar,Amritsar-Ii,283,Upper Primary,Hindi
+SCH0412,Govt. Elementary School Anand,Amritsar,Ajnala,215,Higher Secondary,Punjabi
+SCH0019,Govt. Senior Secondary School Venkatesh,Sangrur,Dhuri,101,Primary,Punjabi
+SCH0429,Govt. Elementary School Narain,Ferozepur,Zira,180,Secondary,Hindi
+SCH0536,Govt. Middle School Chandran,Jalandhar,Jalandhar-I,311,Secondary,Hindi
+SCH0145,Govt. Elementary School Kashyap,Sangrur,Malerkotla,85,Primary,Punjabi
+SCH0303,Govt. Elementary School Bava,Jalandhar,,443,Primary,Hindi
+SCH0558,Govt. Senior Secondary School Morar,Patiala,Rajpura,242,Upper Primary,English
+SCH0426,Govt. Elementary School Andra,Ferozepur,Ferozepur,364,Primary,Hindi
+SCH0273,Govt. Senior Secondary School Parikh,Ferozepur,Makhu,189,Higher Secondary,English
+SCH0262,Govt. Primary School Mital,Ferozepur,Makhu,236,Upper Primary,English
+SCH0363,Govt. Elementary School Sankar,Bathinda,Rampura Phul,192,Primary,English
+SCH0430,Govt. Senior Secondary School Dutt,Ferozepur,Makhu,399,Secondary,Hindi
+SCH0168,Govt. Elementary School Narayan,Amritsar,Amritsar-I,171,Upper Primary,English
+SCH0055,Govt. Elementary School Sem,Sangrur,Malerkotla,424,Secondary,English
+SCH0442,Govt. Middle School Karpe,Ferozepur,Mamdot,87,Upper Primary,Hindi
+SCH0047,Govt. Senior Secondary School Karpe,Jalandhar,Jalandhar-Ii,255,Higher Secondary,English
+SCH0094,Govt. Elementary School Pingle,Patiala,Samana,321,Secondary,Hindi
+SCH0305,Govt. Senior Secondary School Mane,Jalandhar,,87,Secondary,English
+SCH0109,Govt. Elementary School Pradhan,Ferozepur,Makhu,273,Upper Primary,Punjabi
+SCH0293,Govt. Primary School Wadhwa,Jalandhar,Phillaur,329,Higher Secondary,English
+SCH0196,Govt. Senior Secondary School Kara,Ludhiana,Ludhiana-Ii,265,Higher Secondary,English
+SCH0514,Govt. Primary School Mahal,Amritsar,Amritsar-I,72,Higher Secondary,Hindi
+SCH0468,Govt. Middle School Mishra,Bathinda,Talwandi Sabo,154,Secondary,Punjabi
+SCH0371,Govt. Elementary School Baral,Patiala,Nabha,344,Primary,English
+SCH0408,Govt. Primary School Salvi,Ludhiana,Ludhiana-I,96,Higher Secondary,Punjabi
+SCH0008,Govt. Middle School Sibal,Amritsar,Amritsar-Ii,313,Upper Primary,Hindi
+SCH0413,Govt. Primary School Bhatnagar,Sangrur,Dhuri,372,Upper Primary,Hindi
+SCH0424,Govt. Elementary School Baral,Bathinda,Rampura Phul,399,Upper Primary,Hindi
+SCH0285,Govt. Primary School Chaudhry,Ferozepur,Ferozepur,400,Secondary,Hindi
+SCH0276,Govt. Elementary School Naik,Sangrur,Sunam,364,Secondary,Punjabi
+SCH0582,Govt. Primary School Tiwari,,Rajpura,416,Higher Secondary,Punjabi
+SCH0070,Govt. Elementary School Nair,Sangrur,Sunam,262,Secondary,Hindi
+SCH0265,Govt. Primary School Bhat,Ferozepur,Ferozepur,435,Upper Primary,Punjabi
+SCH0433,Govt. Senior Secondary School Hayre,Amritsar,Amritsar-I,235,Primary,English
+SCH0299,Govt. Elementary School Sane,Patiala,Nabha,404,Upper Primary,Hindi
+SCH0250,Govt. Senior Secondary School Lad,Bathinda,Talwandi Sabo,191,Secondary,English
+SCH0573,Govt. Middle School Thakkar,Patiala,Nabha,337,Upper Primary,Hindi
+SCH0275,Govt. Primary School Chandran,Ludhiana,Machhiwara,402,Secondary,Punjabi
+SCH0150,Govt. Primary School Parikh,Ludhiana,Doraha,299,Higher Secondary,English
+SCH0125,Govt. Primary School Srivastava,Moga,Moga-I,129,Upper Primary,Punjabi
+SCH0470,Govt. Elementary School Handa,Jalandhar,Nakodar,348,Primary,Punjabi
+SCH0531,Govt. Senior Secondary School Acharya,Patiala,Patiala,61,Higher Secondary,Punjabi
+SCH0186,Govt. Senior Secondary School Pillay,Moga,Moga-I,321,Secondary,Hindi
+SCH0334,Govt. Senior Secondary School Gole,Moga,Bagha Purana,271,Primary,Hindi
+SCH0313,Govt. Senior Secondary School Behl,Patiala,Nabha,422,Primary,Punjabi
+SCH0478,Govt. Elementary School Padmanabhan,Ferozepur,Makhu,62,Higher Secondary,Punjabi
+SCH0311,Govt. Elementary School Sarkar,Amritsar,Amritsar-Ii,425,Higher Secondary,Hindi
+SCH0350,Govt. Primary School Mann,Jalandhar,,292,Upper Primary,Hindi
+SCH0032,Govt. Senior Secondary School Narang,Bathinda,Maur,218,Upper Primary,Hindi
+SCH0587,Govt. Senior Secondary School Verma,Jalandhar,Phillaur,321,Upper Primary,Hindi
+SCH0507,Govt. Middle School Gola,Ludhiana,Ludhiana-Ii,170,Primary,English
+SCH0569,Govt. Middle School Gill,Bathinda,Rampura Phul,290,Upper Primary,English
+SCH0487,Govt. Senior Secondary School Keer,Bathinda,Bathinda,436,Higher Secondary,Hindi
+SCH0142,Govt. Senior Secondary School Badami,Bathinda,Rampura Phul,207,Higher Secondary,Hindi
+SCH0020,Govt. Primary School Soman,Amritsar,Amritsar-I,157,Primary,English
+SCH0173,Govt. Senior Secondary School Johal,Moga,Moga-Ii,62,Secondary,Punjabi
+SCH0484,Govt. Elementary School Hayre,Jalandhar,Jalandhar-I,422,Upper Primary,Hindi
+SCH0483,Govt. Middle School Varkey,Sangrur,Sunam,229,Higher Secondary,Punjabi
+SCH0026,Govt. Elementary School Narayan,,Ludhiana-Ii,234,Higher Secondary,Hindi
+SCH0447,Govt. Middle School Dash,Ferozepur,,422,Primary,Punjabi
+SCH0590,Govt. Elementary School Khare,Sangrur,,151,Higher Secondary,Hindi
+SCH0319,Govt. Primary School Bassi,Ludhiana,Ludhiana-Ii,84,Primary,Hindi
+SCH0246,Govt. Primary School Chaudhari,Patiala,Rajpura,146,Secondary,Hindi
+SCH0339,Govt. Elementary School Zacharia,Jalandhar,Jalandhar-I,46,Upper Primary,Punjabi
+SCH0155,Govt. Senior Secondary School Chander,Ferozepur,Makhu,169,Upper Primary,English
+SCH0127,Govt. Elementary School Palla,Bathinda,Talwandi Sabo,369,Primary,Punjabi
+SCH0368,Govt. Elementary School Raman,Ferozepur,Zira,323,Higher Secondary,Punjabi
+SCH0114,Govt. Primary School Randhawa,Sangrur,Malerkotla,422,Primary,Hindi
+SCH0174,Govt. Senior Secondary School Lanka,Sangrur,,109,Higher Secondary,Hindi
+SCH0058,Govt. Elementary School Savant,Ferozepur,Mamdot,434,Primary,English
+SCH0345,Govt. Elementary School Mangal,Ludhiana,Machhiwara,440,Higher Secondary,Hindi
+SCH0223,Govt. Senior Secondary School Mallick,Bathinda,Maur,47,Secondary,Punjabi
+SCH0018,Govt. Elementary School Palla,Bathinda,Talwandi Sabo,148,Upper Primary,English
+SCH0321,Govt. Primary School Nayak,Jalandhar,Nakodar,104,Secondary,Punjabi
+SCH0256,Govt. Middle School Chaudhry,Jalandhar,Jalandhar-I,89,Upper Primary,English
+SCH0328,Govt. Senior Secondary School Sarraf,Sangrur,Sangrur,228,Secondary,Hindi
+SCH0592,Govt. Primary School Ray,Ludhiana,,56,Secondary,Punjabi
+SCH0191,Govt. Senior Secondary School Bera,Amritsar,Amritsar-Ii,195,Secondary,Hindi
+SCH0342,Govt. Senior Secondary School Kashyap,Sangrur,Sangrur,235,Upper Primary,Punjabi
+SCH0544,Govt. Senior Secondary School Khalsa,Ferozepur,Zira,138,Upper Primary,Hindi
+SCH0292,Govt. Middle School Deo,Sangrur,Sunam,82,Upper Primary,English
+SCH0095,Govt. Primary School Kanda,Patiala,Nabha,199,Higher Secondary,Punjabi
+SCH0181,Govt. Primary School Lala,Ludhiana,Ludhiana-Ii,351,Higher Secondary,English
+SCH0396,Govt. Senior Secondary School Deshmukh,Moga,Moga-I,42,Upper Primary,Hindi
+SCH0355,Govt. Primary School Tripathi,,Jalandhar-Ii,413,Higher Secondary,English
+SCH0551,Govt. Middle School Tara,Moga,,110,Upper Primary,Punjabi
+SCH0335,Govt. Primary School Kota,Amritsar,Amritsar-Ii,94,Higher Secondary,Hindi
+SCH0006,Govt. Primary School Bahri,Moga,Moga-Ii,400,Upper Primary,Punjabi
+SCH0046,Govt. Elementary School Mody,Moga,Bagha Purana,379,Secondary,English
+SCH0575,Govt. Middle School Nair,Ludhiana,Doraha,251,Secondary,Hindi
+SCH0417,Govt. Elementary School Ahuja,Amritsar,Tarn Taran,378,Higher Secondary,Hindi
+SCH0526,Govt. Elementary School Raman,Ludhiana,,81,Upper Primary,Punjabi
+SCH0017,Govt. Elementary School Pandit,Amritsar,Tarn Taran,75,Upper Primary,Hindi
+SCH0049,Govt. Middle School Purohit,Patiala,Rajpura,446,Upper Primary,Hindi
+SCH0598,Govt. Primary School Warrior,Bathinda,Maur,40,Higher Secondary,Hindi
+SCH0564,Govt. Primary School Nair,Bathinda,Talwandi Sabo,358,Upper Primary,Hindi
+SCH0004,Govt. Elementary School Kaur,Bathinda,,150,Secondary,English
+SCH0556,Govt. Middle School Dar,Amritsar,,261,Higher Secondary,Hindi
+SCH0389,Govt. Primary School Borra,Ludhiana,Machhiwara,191,Higher Secondary,Hindi
+SCH0465,Govt. Senior Secondary School Banerjee,Patiala,Rajpura,158,Secondary,English
+SCH0395,Govt. Elementary School Bose,Sangrur,Sunam,201,Upper Primary,Hindi
+SCH0226,Govt. Primary School Upadhyay,Ludhiana,Doraha,374,Upper Primary,Hindi
+SCH0027,Govt. Primary School Lal,Sangrur,Sunam,137,Primary,Punjabi
+SCH0584,Govt. Senior Secondary School Sahota,Jalandhar,Phillaur,370,Primary,English
+SCH0264,Govt. Elementary School Ghosh,Ludhiana,Doraha,441,Higher Secondary,Hindi
+SCH0051,Govt. Senior Secondary School Sarkar,Patiala,Rajpura,352,Primary,Punjabi
+SCH0230,Govt. Senior Secondary School Badal,Patiala,Nabha,124,Higher Secondary,Punjabi
+SCH0038,Govt. Senior Secondary School Mandal,Ferozepur,Zira,61,Primary,Punjabi
+SCH0158,Govt. Middle School Tella,Moga,Nihal Singh Wala,138,Upper Primary,Punjabi
+SCH0238,Govt. Primary School Amble,Patiala,Nabha,74,Primary,Punjabi
+SCH0593,Govt. Middle School Iyer,Jalandhar,Jalandhar-Ii,384,Upper Primary,Punjabi
+SCH0176,Govt. Elementary School Barad,Moga,Bagha Purana,103,Higher Secondary,Punjabi
+SCH0520,Govt. Primary School Banerjee,Sangrur,Malerkotla,44,Secondary,Hindi
+SCH0437,Govt. Senior Secondary School Loyal,Patiala,Rajpura,155,Secondary,Hindi
+SCH0195,Govt. Elementary School Dhillon,Sangrur,Malerkotla,368,Higher Secondary,Punjabi
+SCH0522,Govt. Primary School Lalla,Patiala,Samana,185,Secondary,English
+SCH0384,Govt. Senior Secondary School Parekh,Ferozepur,Ferozepur,439,Primary,Hindi
+SCH0597,Govt. Senior Secondary School Zacharia,Moga,Moga-Ii,354,Higher Secondary,Hindi
+SCH0528,Govt. Senior Secondary School Sunder,Patiala,Patiala,141,Primary,English
+SCH0068,Govt. Primary School Mangat,Amritsar,Ajnala,390,Primary,Punjabi
+SCH0415,Govt. Elementary School Mandal,Ludhiana,,287,Primary,English
+SCH0169,Govt. Elementary School Walia,,,102,Higher Secondary,Punjabi
+SCH0501,Govt. Primary School Devi,Ludhiana,Doraha,241,Upper Primary,Punjabi
+SCH0163,Govt. Primary School Ratta,Jalandhar,Nakodar,66,Secondary,Hindi
+SCH0310,Govt. Elementary School Nair,Sangrur,Malerkotla,409,Upper Primary,Punjabi
+SCH0194,Govt. Elementary School Suresh,Amritsar,Amritsar-I,368,Secondary,Punjabi
+SCH0153,Govt. Senior Secondary School Vohra,Amritsar,Amritsar-Ii,60,Higher Secondary,English
+SCH0351,Govt. Senior Secondary School Morar,Patiala,Patiala,309,Secondary,English
+SCH0361,Govt. Elementary School Bumb,Amritsar,Amritsar-I,213,Higher Secondary,Hindi
+SCH0227,Govt. Senior Secondary School Samra,Ferozepur,Makhu,393,Secondary,Hindi
+SCH0357,Govt. Middle School Bhatti,Moga,Nihal Singh Wala,45,Upper Primary,Punjabi
+SCH0104,Govt. Primary School Chacko,Amritsar,Amritsar-Ii,363,Secondary,Punjabi
+SCH0420,Govt. Elementary School Nair,Amritsar,Tarn Taran,267,Higher Secondary,Punjabi
+SCH0075,Govt. Middle School Mody,Ferozepur,Zira,196,Secondary,Hindi
+SCH0452,Govt. Senior Secondary School Jaggi,Patiala,Nabha,422,Secondary,English
+SCH0596,Govt. Middle School Tank,Amritsar,Tarn Taran,410,Secondary,Hindi
+SCH0120,Govt. Middle School Sharaf,Patiala,Rajpura,267,Secondary,English
+SCH0416,Govt. Middle School Batra,Moga,Moga-I,400,Upper Primary,Hindi
+SCH0439,Govt. Middle School Sankar,Ferozepur,,259,Secondary,Punjabi
+SCH0581,Govt. Elementary School Srivastava,Moga,Nihal Singh Wala,353,Primary,Punjabi
+SCH0208,Govt. Elementary School Rattan,Bathinda,Bathinda,345,Upper Primary,Hindi
+SCH0358,Govt. Elementary School Panchal,Ludhiana,Ludhiana-I,237,Higher Secondary,Punjabi
+SCH0527,Govt. Senior Secondary School Bath,Jalandhar,Jalandhar-Ii,168,Primary,Punjabi
+SCH0366,Govt. Primary School Hari,Ferozepur,Zira,229,Secondary,Punjabi
+SCH0434,Govt. Primary School Bandi,Jalandhar,Jalandhar-I,393,Upper Primary,Punjabi
+SCH0009,Govt. Middle School Bakshi,Patiala,Samana,433,Upper Primary,Punjabi
+SCH0405,Govt. Primary School Agarwal,Bathinda,Maur,254,Primary,Punjabi
+SCH0037,Govt. Middle School More,Ludhiana,Ludhiana-I,78,Upper Primary,Hindi
+SCH0140,Govt. Middle School Garg,Bathinda,Maur,426,Secondary,Hindi
+SCH0254,Govt. Primary School Kapadia,Sangrur,,70,Higher Secondary,Hindi
+SCH0304,Govt. Senior Secondary School Dubey,Sangrur,Dhuri,40,Higher Secondary,English
+SCH0529,Govt. Middle School Ganguly,Moga,Moga-Ii,362,Primary,Punjabi
+SCH0060,Govt. Elementary School Srinivas,Ferozepur,Makhu,382,Higher Secondary,Hindi
+SCH0112,Govt. Senior Secondary School Bhagat,Amritsar,,198,Primary,English
+SCH0502,Govt. Middle School Yogi,Moga,Moga-I,46,Higher Secondary,English
+SCH0559,Govt. Elementary School Bera,Ferozepur,Makhu,390,Primary,English
+SCH0381,Govt. Elementary School Varma,,Ferozepur,388,Secondary,Punjabi
+SCH0263,Govt. Elementary School Oak,Ludhiana,Ludhiana-I,263,Primary,English
+SCH0516,Govt. Middle School Misra,Bathinda,Talwandi Sabo,360,Upper Primary,English
+SCH0298,Govt. Senior Secondary School Sibal,Amritsar,Amritsar-Ii,424,Primary,Hindi
+SCH0151,Govt. Primary School Dugar,Amritsar,Amritsar-I,354,Higher Secondary,Hindi
+SCH0267,Govt. Elementary School Basak,Amritsar,Amritsar-Ii,84,Higher Secondary,Punjabi
+SCH0535,Govt. Elementary School Viswanathan,Sangrur,Sunam,330,Secondary,Hindi
+SCH0360,Govt. Senior Secondary School Bhat,Bathinda,Bathinda,203,Primary,Hindi
+SCH0547,Govt. Middle School Lad,Moga,Bagha Purana,251,Higher Secondary,Hindi
+SCH0039,Govt. Senior Secondary School Baral,Moga,Nihal Singh Wala,357,Upper Primary,Punjabi
+SCH0515,Govt. Elementary School Rattan,Amritsar,Amritsar-I,174,Primary,Hindi
+SCH0308,Govt. Middle School Butala,Amritsar,Amritsar-Ii,236,Primary,Hindi
+SCH0199,Govt. Elementary School Nath,Moga,Bagha Purana,137,Higher Secondary,English
+SCH0498,Govt. Elementary School Pillay,Moga,Moga-Ii,438,Primary,Hindi
+SCH0382,Govt. Primary School Lanka,Moga,Bagha Purana,123,Secondary,Punjabi
+SCH0147,Govt. Senior Secondary School Das,Moga,Bagha Purana,412,Upper Primary,Hindi
+SCH0504,Govt. Senior Secondary School Barad,Moga,Bagha Purana,245,Upper Primary,English
+SCH0549,Govt. Middle School Krishnamurthy,Ludhiana,,185,Upper Primary,Hindi
+SCH0148,Govt. Elementary School Sastry,Jalandhar,Jalandhar-I,130,Higher Secondary,Hindi
+SCH0450,Govt. Primary School Kurian,Amritsar,Amritsar-I,398,Secondary,English
+SCH0349,Govt. Primary School Jaggi,Jalandhar,Jalandhar-Ii,343,Secondary,English
+SCH0326,Govt. Primary School Balasubramanian,Ferozepur,Makhu,178,Secondary,Hindi
+SCH0421,Govt. Primary School Behl,Sangrur,Sangrur,92,Primary,Hindi
+SCH0124,Govt. Middle School Goda,Jalandhar,Nakodar,448,Primary,Hindi
+SCH0537,Govt. Senior Secondary School Jayaraman,Ferozepur,Zira,49,Secondary,Punjabi
+SCH0097,Govt. Middle School Prakash,Sangrur,Sunam,236,Upper Primary,Punjabi
+SCH0144,Govt. Primary School Bakshi,Ferozepur,Mamdot,403,Secondary,Hindi
+SCH0240,Govt. Senior Secondary School Mitter,Moga,Bagha Purana,161,Upper Primary,English
+SCH0404,Govt. Primary School Keer,Amritsar,Ajnala,282,Upper Primary,Punjabi
+SCH0098,Govt. Elementary School Soman,Moga,Bagha Purana,41,Secondary,Punjabi
+SCH0372,Govt. Senior Secondary School Mody,Sangrur,Sangrur,442,Higher Secondary,Hindi
+SCH0325,Govt. Elementary School Babu,Moga,Nihal Singh Wala,116,Primary,Hindi
+SCH0280,Govt. Elementary School Modi,Sangrur,Sunam,216,Higher Secondary,Punjabi
+SCH0294,Govt. Primary School Arora,Moga,Moga-I,429,Upper Primary,Hindi
+SCH0588,Govt. Senior Secondary School Sahota,Jalandhar,Jalandhar-I,254,Higher Secondary,Hindi
+SCH0123,Govt. Primary School Cheema,Patiala,Nabha,159,Upper Primary,Hindi
+SCH0184,Govt. Senior Secondary School Hora,Sangrur,Dhuri,327,Secondary,English
+SCH0203,Govt. Middle School Grewal,Patiala,Samana,323,Higher Secondary,Hindi
+SCH0324,Govt. Primary School Sundaram,Amritsar,Amritsar-Ii,419,Primary,Punjabi
+SCH0247,Govt. Senior Secondary School Barad,Amritsar,Tarn Taran,164,Upper Primary,English
+SCH0448,Govt. Senior Secondary School Sandal,Ludhiana,Ludhiana-Ii,446,Primary,Punjabi
+SCH0513,Govt. Primary School Sachdeva,Ludhiana,Ludhiana-Ii,412,Secondary,Punjabi
+SCH0440,Govt. Middle School Devan,Jalandhar,Jalandhar-I,118,Primary,Hindi
+SCH0546,Govt. Elementary School Prabhakar,Jalandhar,Phillaur,298,Upper Primary,English
+SCH0418,Govt. Senior Secondary School Comar,Ludhiana,,369,Higher Secondary,Punjabi
+SCH0126,Govt. Primary School Pillay,Sangrur,Malerkotla,302,Higher Secondary,Hindi
+SCH0403,Govt. Primary School Garde,Ludhiana,Ludhiana-I,378,Primary,Punjabi
+SCH0457,Govt. Elementary School Varty,Amritsar,Ajnala,357,Upper Primary,English
+SCH0443,Govt. Senior Secondary School Chakrabarti,Sangrur,Sangrur,98,Higher Secondary,English
+SCH0224,Govt. Senior Secondary School Kunda,Ferozepur,Makhu,84,Primary,Hindi
+SCH0343,Govt. Elementary School Bassi,Jalandhar,Jalandhar-I,354,Upper Primary,Hindi
+SCH0054,Govt. Elementary School Bajwa,Moga,Nihal Singh Wala,353,Higher Secondary,Punjabi
+SCH0220,Govt. Elementary School Mishra,Jalandhar,Phillaur,130,Primary,Hindi
+SCH0130,Govt. Elementary School Mall,Patiala,Rajpura,271,Higher Secondary,Punjabi
+SCH0560,Govt. Senior Secondary School Rajagopalan,Patiala,Samana,216,Primary,Hindi
+SCH0423,Govt. Senior Secondary School Master,Moga,,406,Higher Secondary,English
+SCH0480,Govt. Primary School Brar,,Makhu,136,Primary,Punjabi
+SCH0562,Govt. Middle School Andra,Amritsar,,164,Upper Primary,Punjabi
+SCH0425,Govt. Senior Secondary School Wason,Patiala,Nabha,101,Higher Secondary,Punjabi
+SCH0101,Govt. Elementary School Saxena,Sangrur,,104,Secondary,Punjabi
+SCH0432,Govt. Elementary School Sura,Sangrur,Dhuri,385,Secondary,Hindi
+SCH0387,Govt. Middle School Varty,Moga,Bagha Purana,192,Higher Secondary,English
+SCH0599,Govt. Senior Secondary School Vala,Ferozepur,Mamdot,63,Upper Primary,English
+SCH0295,Govt. Primary School Sule,Bathinda,Bathinda,270,Primary,Hindi
+SCH0268,Govt. Primary School Amble,Moga,Moga-I,345,Secondary,Punjabi
+SCH0495,Govt. Elementary School Sandal,Moga,Moga-I,398,Upper Primary,English
+SCH0445,Govt. Primary School Wason,Sangrur,Dhuri,62,Upper Primary,Hindi
+SCH0113,Govt. Middle School Subramaniam,Moga,Nihal Singh Wala,129,Secondary,English
+SCH0180,Govt. Elementary School Sha,Moga,Nihal Singh Wala,180,Primary,Hindi
+SCH0451,Govt. Primary School Dasgupta,Amritsar,Ajnala,431,Higher Secondary,Hindi
+SCH0494,Govt. Senior Secondary School Kurian,Amritsar,Tarn Taran,364,Upper Primary,Punjabi
+SCH0482,Govt. Elementary School Sibal,Ferozepur,Makhu,353,Higher Secondary,Hindi
+SCH0374,Govt. Elementary School Yohannan,Ferozepur,Mamdot,332,Primary,Hindi
+SCH0315,Govt. Primary School Chakraborty,Ferozepur,,319,Higher Secondary,Punjabi
+SCH0152,Govt. Elementary School Dass,Patiala,Samana,349,Upper Primary,English
+SCH0172,Govt. Primary School Konda,Ludhiana,Machhiwara,231,Primary,Punjabi
+SCH0234,Govt. Senior Secondary School Tak,Moga,Nihal Singh Wala,269,Higher Secondary,English
+SCH0307,Govt. Elementary School Wali,,Rajpura,44,Secondary,Punjabi
+SCH0458,Govt. Senior Secondary School Murty,Jalandhar,Nakodar,201,Upper Primary,Punjabi
+SCH0165,Govt. Middle School Mallick,Patiala,Rajpura,218,Higher Secondary,Punjabi
+SCH0318,Govt. Elementary School Rout,Jalandhar,Nakodar,240,Primary,Hindi
+SCH0137,Govt. Senior Secondary School Dani,Ferozepur,Ferozepur,112,Primary,Punjabi
+SCH0411,Govt. Elementary School Narayanan,Ludhiana,Ludhiana-Ii,379,Secondary,English
+SCH0198,Govt. Elementary School Sachar,Patiala,Nabha,89,Higher Secondary,Hindi
+SCH0571,Govt. Elementary School Gaba,Patiala,Nabha,214,Upper Primary,Hindi
+SCH0259,Govt. Primary School Munshi,Sangrur,Dhuri,370,Primary,Hindi
+SCH0233,Govt. Senior Secondary School Mutti,,Ludhiana-I,281,Higher Secondary,Punjabi
+SCH0116,Govt. Middle School Gandhi,Ferozepur,Makhu,95,Higher Secondary,Hindi
+SCH0121,Govt. Elementary School Deshmukh,Ludhiana,,181,Primary,Hindi
+SCH0464,Govt. Elementary School Khalsa,Jalandhar,Jalandhar-Ii,268,Upper Primary,Punjabi
+SCH0508,Govt. Senior Secondary School Kara,Bathinda,Rampura Phul,50,Secondary,Hindi
+SCH0377,Govt. Middle School Gandhi,Patiala,Nabha,193,Higher Secondary,Punjabi
+SCH0385,Govt. Middle School Mane,Ludhiana,Ludhiana-Ii,169,Secondary,Punjabi
+SCH0225,Govt. Middle School Chaudhry,Ludhiana,Doraha,236,Secondary,Hindi
+SCH0586,Govt. Elementary School Tailor,Amritsar,Amritsar-I,98,Secondary,Hindi
+SCH0489,Govt. Elementary School Pant,Jalandhar,Jalandhar-I,181,Secondary,Hindi
+SCH0348,Govt. Elementary School Sarraf,Bathinda,Bathinda,431,Upper Primary,Hindi
+SCH0128,Govt. Primary School Walla,Sangrur,Dhuri,77,Secondary,Hindi
+SCH0446,Govt. Elementary School Kala,Ludhiana,Ludhiana-I,147,Upper Primary,Hindi
+SCH0286,Govt. Elementary School Badal,Jalandhar,Nakodar,206,Primary,English
+SCH0570,Govt. Primary School Padmanabhan,Patiala,Samana,71,Higher Secondary,English
+SCH0044,Govt. Primary School Rajagopalan,Ferozepur,Makhu,413,Higher Secondary,Hindi
+SCH0108,Govt. Middle School Warrior,Sangrur,Malerkotla,386,Primary,English
+SCH0523,Govt. Primary School Hora,Amritsar,Tarn Taran,356,Higher Secondary,Hindi
+SCH0557,Govt. Senior Secondary School Raghavan,Ludhiana,Machhiwara,174,Higher Secondary,Punjabi
+SCH0134,Govt. Elementary School Suri,Bathinda,Rampura Phul,93,Upper Primary,Punjabi
+SCH0441,Govt. Primary School Gara,Moga,Moga-I,441,Upper Primary,Hindi
+SCH0062,Govt. Middle School Pradhan,Jalandhar,Jalandhar-I,173,Upper Primary,Punjabi
+SCH0045,Govt. Senior Secondary School Divan,Patiala,Samana,62,Primary,Punjabi
+SCH0170,Govt. Middle School Mallick,Ludhiana,Ludhiana-Ii,407,Higher Secondary,Punjabi
+SCH0066,Govt. Senior Secondary School Devan,Moga,Moga-Ii,350,Primary,Punjabi
+SCH0284,Govt. Senior Secondary School Prakash,Patiala,Rajpura,362,Higher Secondary,Punjabi
+SCH0086,Govt. Middle School Tata,Bathinda,Maur,257,Upper Primary,Punjabi
+SCH0243,Govt. Senior Secondary School Deep,Bathinda,Maur,277,Higher Secondary,English
+SCH0187,Govt. Primary School Chaudhari,Patiala,Patiala,142,Upper Primary,Hindi
+SCH0327,Govt. Middle School Muni,Ludhiana,Machhiwara,75,Secondary,Hindi
+SCH0160,Govt. Middle School Munshi,Jalandhar,Phillaur,62,Upper Primary,Punjabi
+SCH0013,Govt. Middle School Contractor,Bathinda,Bathinda,388,Secondary,Punjabi
+SCH0036,Govt. Elementary School Solanki,Ludhiana,Doraha,434,Secondary,Punjabi
+SCH0029,Govt. Primary School Lad,Amritsar,Amritsar-Ii,246,Upper Primary,Punjabi
+SCH0171,Govt. Primary School Dasgupta,Jalandhar,Jalandhar-I,308,Primary,Punjabi
+SCH0143,Govt. Elementary School Venkataraman,Patiala,Samana,76,Primary,English
+SCH0237,Govt. Elementary School Sood,Jalandhar,Nakodar,136,Primary,Punjabi
+SCH0497,Govt. Senior Secondary School Wali,Sangrur,Sunam,160,Secondary,Hindi
+SCH0517,Govt. Senior Secondary School Mangat,Sangrur,Dhuri,316,Higher Secondary,Punjabi
+SCH0580,Govt. Primary School Apte,Sangrur,Malerkotla,274,Higher Secondary,Punjabi
+SCH0222,Govt. Middle School Edwin,Sangrur,Sunam,298,Upper Primary,Punjabi
+SCH0591,Govt. Senior Secondary School Anand,Ludhiana,,320,Upper Primary,English
+SCH0096,Govt. Elementary School Walia,Jalandhar,Phillaur,406,Secondary,Hindi
+SCH0052,Govt. Primary School Kannan,Sangrur,Dhuri,164,Primary,Hindi
+SCH0241,Govt. Middle School Dass,Ludhiana,Ludhiana-Ii,360,Higher Secondary,Punjabi
+SCH0525,Govt. Elementary School Karpe,Ludhiana,Machhiwara,151,Secondary,Punjabi
+SCH0352,Govt. Middle School Jayaraman,,Nakodar,70,Upper Primary,English
+SCH0533,Govt. Elementary School Tailor,Amritsar,Amritsar-Ii,289,Secondary,Punjabi
+SCH0179,Govt. Elementary School Raman,Bathinda,Rampura Phul,268,Higher Secondary,Punjabi
+SCH0461,Govt. Primary School Ramachandran,Bathinda,Bathinda,412,Primary,Hindi
+SCH0543,Govt. Primary School Dey,Ludhiana,Ludhiana-I,195,Upper Primary,Hindi
+SCH0042,Govt. Elementary School Bhatnagar,Ferozepur,Makhu,182,Secondary,Hindi
+SCH0572,Govt. Middle School Dey,Patiala,Rajpura,163,Higher Secondary,Hindi
+SCH0539,Govt. Senior Secondary School Kalita,Amritsar,Amritsar-I,307,Primary,Punjabi
+SCH0207,Govt. Primary School Kaul,Sangrur,Malerkotla,283,Secondary,Hindi
+SCH0393,Govt. Senior Secondary School Bava,Bathinda,Talwandi Sabo,100,Primary,Punjabi
+SCH0283,Govt. Middle School Reddy,Amritsar,Amritsar-Ii,419,Upper Primary,Punjabi
+SCH0359,Govt. Primary School Bhavsar,Moga,Nihal Singh Wala,91,Upper Primary,Punjabi
+SCH0398,Govt. Primary School Narasimhan,Patiala,Samana,47,Upper Primary,Hindi
+SCH0255,Govt. Middle School Barman,Ferozepur,,48,Secondary,Punjabi
+SCH0518,Govt. Elementary School Sibal,Ferozepur,Makhu,217,Upper Primary,Punjabi
+SCH0218,Govt. Senior Secondary School Dugar,Ludhiana,Ludhiana-Ii,248,Higher Secondary,English
+SCH0005,Govt. Elementary School Bajwa,Bathinda,,413,Primary,English
+SCH0550,Govt. Senior Secondary School Mittal,Patiala,,51,Secondary,Punjabi
+SCH0099,Govt. Middle School Korpal,Sangrur,Malerkotla,210,Higher Secondary,Hindi
+SCH0407,Govt. Elementary School Mitter,Bathinda,Maur,60,Upper Primary,Punjabi
+SCH0503,Govt. Elementary School Lala,Jalandhar,Nakodar,161,Secondary,Punjabi
+SCH0048,Govt. Middle School Chana,Ferozepur,Ferozepur,195,Higher Secondary,Punjabi
+SCH0033,Govt. Primary School Shroff,Bathinda,Bathinda,381,Secondary,Hindi
+SCH0201,Govt. Primary School Sagar,Ludhiana,Doraha,293,Higher Secondary,Punjabi
+SCH0135,Govt. Primary School Raghavan,Moga,Bagha Purana,98,Upper Primary,English
+SCH0028,Govt. Primary School Sengupta,Ludhiana,Machhiwara,297,Upper Primary,Punjabi
+SCH0541,Govt. Senior Secondary School Badami,Bathinda,Bathinda,227,Primary,Punjabi
+SCH0231,Govt. Primary School Datta,Amritsar,Tarn Taran,68,Higher Secondary,English
+SCH0490,Govt. Middle School Dutta,Ludhiana,Ludhiana-I,86,Secondary,Hindi
+SCH0379,Govt. Primary School Balay,Jalandhar,Jalandhar-I,199,Higher Secondary,Hindi
+SCH0289,Govt. Elementary School Mohanty,Ferozepur,Mamdot,345,Higher Secondary,Hindi
+SCH0419,Govt. Elementary School Sarkar,Moga,Moga-Ii,209,Primary,Hindi
+SCH0392,Govt. Middle School Kara,Amritsar,Amritsar-Ii,221,Secondary,Hindi
+SCH0499,Govt. Middle School Oak,Ludhiana,Machhiwara,230,Higher Secondary,Hindi
+SCH0139,Govt. Elementary School Lata,Jalandhar,Jalandhar-I,385,Higher Secondary,Punjabi
+SCH0063,Govt. Primary School Singhal,Bathinda,Talwandi Sabo,169,Higher Secondary,English
+SCH0472,Govt. Senior Secondary School Nazareth,Jalandhar,,108,Primary,English
+SCH0129,Govt. Elementary School Malhotra,Moga,,345,Higher Secondary,Punjabi
+SCH0521,Govt. Senior Secondary School Sharaf,Ferozepur,Mamdot,242,Higher Secondary,Punjabi
+SCH0065,Govt. Senior Secondary School Palla,Jalandhar,Jalandhar-Ii,104,Primary,English
+SCH0015,Govt. Primary School Brahmbhatt,Bathinda,Maur,118,Upper Primary,Punjabi
+SCH0157,Govt. Middle School Keer,Jalandhar,Jalandhar-I,370,Secondary,Hindi
+SCH0041,Govt. Senior Secondary School Kuruvilla,Sangrur,Sunam,142,Higher Secondary,Hindi
+SCH0493,Govt. Primary School Bhattacharyya,Sangrur,Sunam,427,Higher Secondary,English
+SCH0380,Govt. Middle School Minhas,Ludhiana,Ludhiana-Ii,56,Secondary,Punjabi
+SCH0188,Govt. Elementary School Vig,Moga,Nihal Singh Wala,322,Primary,Punjabi
+SCH0217,Govt. Primary School Apte,Patiala,Nabha,66,Secondary,Hindi
+SCH0053,Govt. Elementary School Tailor,Jalandhar,Phillaur,65,Primary,Hindi
+SCH0338,Govt. Senior Secondary School Wali,Bathinda,,55,Higher Secondary,Punjabi
+SCH0296,Govt. Senior Secondary School Dash,Patiala,Samana,403,Higher Secondary,Hindi
+SCH0252,Govt. Primary School Krish,Sangrur,Sunam,317,Primary,Punjabi
+SCH0462,Govt. Senior Secondary School Gulati,Ferozepur,Zira,58,Higher Secondary,Hindi
+SCH0456,Govt. Middle School Bhatnagar,Bathinda,Bathinda,168,Higher Secondary,Hindi
+SCH0270,Govt. Primary School Nadkarni,Jalandhar,Jalandhar-I,125,Higher Secondary,Hindi
+SCH0202,Govt. Elementary School Karpe,Jalandhar,,412,Higher Secondary,Hindi
+SCH0162,Govt. Elementary School Deshpande,Sangrur,Dhuri,433,Higher Secondary,Hindi
+SCH0402,Govt. Primary School Chakraborty,Patiala,Patiala,341,Primary,English
+SCH0477,Govt. Primary School Gupta,Ludhiana,Ludhiana-I,87,Upper Primary,Punjabi
+SCH0106,Govt. Primary School Shanker,Ferozepur,Zira,165,Upper Primary,Punjabi
+SCH0390,Govt. Middle School Dutt,Patiala,Samana,411,Higher Secondary,Hindi
+SCH0002,Govt. Primary School Dewan,,Tarn Taran,56,Upper Primary,Hindi
+SCH0576,Govt. Senior Secondary School Tripathi,,Amritsar-Ii,134,Secondary,Hindi
+SCH0081,Govt. Middle School Batta,Ferozepur,,77,Primary,Hindi
+SCH0206,Govt. Middle School Menon,Jalandhar,Nakodar,353,Higher Secondary,Hindi
+SCH0035,Govt. Elementary School Setty,Bathinda,Talwandi Sabo,168,Primary,Punjabi
+SCH0509,Govt. Elementary School Maharaj,Jalandhar,Nakodar,221,Higher Secondary,Punjabi
+SCH0428,Govt. Middle School Swamy,Jalandhar,Jalandhar-Ii,414,Primary,Punjabi
+SCH0455,Govt. Elementary School Borah,Patiala,Patiala,132,Primary,Punjabi
+SCH0367,Govt. Primary School Vala,Bathinda,,177,Upper Primary,English
+SCH0092,Govt. Middle School Bawa,Bathinda,Talwandi Sabo,429,Higher Secondary,Punjabi
+SCH0340,Govt. Elementary School Manda,Bathinda,Bathinda,51,Upper Primary,Punjabi
+SCH0565,Govt. Middle School Kibe,Ludhiana,,127,Upper Primary,Punjabi
+SCH0346,Govt. Primary School Peri,Moga,Nihal Singh Wala,178,Secondary,English
+SCH0242,Govt. Elementary School Bhardwaj,Moga,Nihal Singh Wala,249,Higher Secondary,Hindi
+SCH0014,Govt. Senior Secondary School Soman,Jalandhar,Phillaur,41,Secondary,Punjabi
+SCH0316,Govt. Elementary School Dhingra,,Doraha,150,Primary,Hindi
+SCH0388,Govt. Elementary School Saini,Bathinda,Rampura Phul,136,Upper Primary,Hindi
+SCH0274,Govt. Senior Secondary School Raval,Ferozepur,Makhu,98,Upper Primary,Hindi
+SCH0167,Govt. Elementary School Pall,Ludhiana,Doraha,281,Upper Primary,Punjabi
+SCH0485,Govt. Senior Secondary School Gola,Ludhiana,Ludhiana-Ii,239,Primary,Hindi
+SCH0505,Govt. Primary School Chakraborty,Patiala,Rajpura,235,Upper Primary,Punjabi
+SCH0244,Govt. Primary School Swamy,Patiala,Samana,371,Higher Secondary,Hindi
+SCH0567,Govt. Elementary School Sawhney,Patiala,Rajpura,300,Primary,Hindi
+SCH0563,Govt. Senior Secondary School Nayak,,Talwandi Sabo,281,Upper Primary,Hindi
+SCH0190,Govt. Senior Secondary School Chadha,Moga,Moga-Ii,439,Upper Primary,Punjabi
+SCH0476,Govt. Primary School Chowdhury,Jalandhar,Jalandhar-I,48,Higher Secondary,Hindi
+SCH0511,Govt. Middle School Kuruvilla,Ferozepur,Ferozepur,80,Upper Primary,Hindi
+SCH0059,Govt. Middle School Barman,Bathinda,Talwandi Sabo,254,Upper Primary,Punjabi
+SCH0475,Govt. Primary School Prakash,Bathinda,Maur,410,Higher Secondary,Punjabi
+SCH0561,Govt. Middle School Mishra,,Sunam,265,Upper Primary,Punjabi
+SCH0253,Govt. Senior Secondary School Saha,Ludhiana,,110,Upper Primary,Hindi
+SCH0022,Govt. Primary School Aggarwal,Amritsar,Amritsar-I,377,Higher Secondary,Punjabi
+SCH0314,Govt. Middle School Kakar,Patiala,Rajpura,366,Primary,Hindi
+SCH0460,Govt. Senior Secondary School Solanki,Sangrur,Sangrur,129,Primary,Hindi
+SCH0161,Govt. Senior Secondary School Mand,Patiala,Nabha,198,Higher Secondary,Hindi
+SCH0277,Govt. Middle School Nagi,Sangrur,Dhuri,338,Higher Secondary,Hindi
+SCH0192,Govt. Middle School Varty,Bathinda,Bathinda,168,Secondary,Punjabi
+SCH0386,Govt. Elementary School Sama,Moga,Nihal Singh Wala,169,Secondary,Punjabi
+SCH0414,Govt. Elementary School Goyal,Amritsar,Tarn Taran,342,Higher Secondary,Hindi
+SCH0492,Govt. Middle School Dalal,Bathinda,Rampura Phul,99,Secondary,Punjabi
+SCH0344,Govt. Senior Secondary School Bala,Sangrur,Sangrur,84,Upper Primary,Hindi
+SCH0309,Govt. Primary School Garde,Ferozepur,Zira,368,Upper Primary,Hindi
+SCH0131,Govt. Elementary School Dani,Moga,,200,Secondary,Punjabi
+SCH0100,Govt. Elementary School Sandal,Ferozepur,Zira,437,Secondary,Hindi
+SCH0373,Govt. Middle School Soman,Amritsar,Amritsar-I,328,Secondary,English
+SCH0088,Govt. Middle School Golla,Bathinda,Talwandi Sabo,264,Primary,Punjabi
+SCH0459,Govt. Elementary School Mani,Bathinda,Rampura Phul,108,Secondary,English
+SCH0331,Govt. Primary School Raju,Patiala,,291,Upper Primary,Hindi
+SCH0215,Govt. Elementary School Saha,Bathinda,Bathinda,187,Primary,Punjabi
+SCH0467,Govt. Elementary School Krishnan,Bathinda,Rampura Phul,336,Upper Primary,Punjabi
+SCH0122,Govt. Senior Secondary School Ahluwalia,Ludhiana,,442,Upper Primary,Hindi
+SCH0021,Govt. Elementary School Sami,Sangrur,Sunam,316,Higher Secondary,Hindi
+SCH0072,Govt. Senior Secondary School Sengupta,Ferozepur,Makhu,54,Secondary,English
+SCH0107,Govt. Elementary School Krishna,Patiala,Rajpura,338,Higher Secondary,Punjabi
+SCH0271,Govt. Elementary School Mohan,Sangrur,Sunam,274,Secondary,Hindi
+SCH0436,Govt. Primary School Joshi,Ferozepur,,253,Secondary,English
+SCH0103,Govt. Elementary School Parsa,Amritsar,Ajnala,385,Higher Secondary,Punjabi
